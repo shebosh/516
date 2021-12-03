@@ -7,7 +7,7 @@ from nltk.collocations import BigramCollocationFinder
 from nltk.metrics import BigramAssocMeasures
 textWords = [w.lower() for w in webtext.words('pirates.txt')]
 finder = BigramCollocationFinder.from_words(textWords)
-finder.nbest(BigramAssocMeasures.likelihood_ratio, 10)
+finder.nbest(BigramAssocMeasures.likelihood_ratio, 50)
 
 # Ex 19
 # table of word frequencies by genre
