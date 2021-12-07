@@ -1,0 +1,5 @@
+""" The two girls sat down and counted the colours in the rainbow. The most bright colours were yellow and green.
+While the least visible colours were red and blue. One girl counted 11 colours. However, the other girl counted 10 colours.
+Who was right? Who counted the colours in the rainbow right?
+The two neighbours sat down with humour and watched the two girls who counted the colours.
+They, too, were busy, but counting the flavours """
